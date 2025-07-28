@@ -3,7 +3,7 @@
 
 To use this project:
 
-1. Get your free Gemini API key from the url in the fetch() method in CloneGPT.js file 
+1. Get your free Gemini API key from the following URL: "https://aistudio.google.com/app/apikey"
 2. Open `CloneGPT.js` 
 3. Replace this line:
 ```js
